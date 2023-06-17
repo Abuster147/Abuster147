@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Abuster147  Akash Kumar
-- 👀 I’m interested in Algorithms and making aesthetic webpages using CSS/ReactJs
+- 👋 Hi, I’m @Abuster147 Akash Kumar 
+- 👀 I’m interested in algorithms and making webpages using ReactJs
 - 📫 react to me at akash123smr@gmail.com
 
 <!---
